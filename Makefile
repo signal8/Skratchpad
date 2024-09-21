@@ -1,5 +1,5 @@
 # Thanks makefiletutorial.com!
-TARGET_EXEC := juh
+TARGET_EXEC := Skratchpad
 
 BUILD_DIR := ./build
 SRC_DIRS := ./src
